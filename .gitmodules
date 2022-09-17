@@ -1,0 +1,3 @@
+[submodule "External/cmake_ex"]
+	path = External/cmake_ex
+	url = https://github.com/KadaHarshavardhan/cmake_ex.git
